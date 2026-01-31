@@ -1,5 +1,6 @@
 .DS_Store
-build/
 DerivedData/
-*.app.zip
+build/
+*.xcworkspace
 xcuserdata/
+*.xcuserdatad
